@@ -198,5 +198,3 @@ With improvements, it can support operational flood monitoring in Sri Lanka.
 ## 11. LICENSE
 Use a standard license such as:
 MIT License (recommended for research projects)
-* Twele et al. (2016)
-* UNOCHA (2025)
